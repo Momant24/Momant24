@@ -1,4 +1,4 @@
-<h1 align="center">Hei, jeg heter Martin Horgen Holst 👋</h1>
+<h1 align="center">Hei, jeg heter Martin Horgen Holst </h1>
 <p align="center">
 Student ved Kuben VGS – VG3 Informatikklinja<br>
 Interessert i IT
@@ -39,9 +39,16 @@ Interessert i IT
 ### GitHub-statistikk
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Momant24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Momant24&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Momant24&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Momant24&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
