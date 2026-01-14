@@ -36,22 +36,6 @@ Interessert i IT
 
 ---
 
-### GitHub-statistikk
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Momant24&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Momant24&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-
----
-
 ### Kontakt
 
 -  E-post: [holstm75@icloud.com](mailto:holstm75@icloud.com)
