@@ -8,11 +8,11 @@ Interessert i IT
 
 ### Om meg
 
-- 🎓 Student ved Kuben videregående skole, VG3 Informatikklinja
-- 🧠 Lærer nye ting hele tiden – spesielt innen Python, MySQL og webutvikling
-- 🛠️ Utforsker ny teknologi for å lære mer
-- 📚 Nysgjerrig på backend, frontend, databaser og ny teknologi
-- 🌍 Oslo, Norge
+-  Student ved Kuben videregående skole, VG3 Informatikklinja
+-  Lærer nye ting hele tiden – spesielt innen Python, MySQL og webutvikling
+-  Utforsker ny teknologi for å lære mer
+-  Nysgjerrig på backend, frontend, databaser og ny teknologi
+-  Oslo, Norge
 
 ---
 
@@ -47,8 +47,8 @@ Interessert i IT
 
 ### Kontakt
 
-- 📧 E-post: [holstm75@icloud.com](mailto:holstm75@icloud.com)
-- 💼 LinkedIn: [linkedin.com/in/martin-holst-5686b1327](https://www.linkedin.com/in/martin-holst-5686b1327/)
+-  E-post: [holstm75@icloud.com](mailto:holstm75@icloud.com)
+-  LinkedIn: [linkedin.com/in/martin-holst-5686b1327](https://www.linkedin.com/in/martin-holst-5686b1327/)
 
 ---
 
