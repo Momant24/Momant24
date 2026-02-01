@@ -33,10 +33,11 @@ Interessert i IT
 
 ### Utvalgte prosjekter
 
+- [Trump Klikker](https://github.com/Momant24/Klikker) – Klikkespill med Pygame, utforske Pygame videre med dumme quotes fra Trump og mer
 - [Tekstbasert spill](https://github.com/Momant24/Jonathan-og-Martin-Spill) – Et tekstbasert spill kjørt i terminalen, laget i Python
 - [Hoggorm](https://github.com/Momant24/Pygamehogorm) – Snake oversatt til norsk («Hoggorm») med fokus på å lære Pygame
 - [Enkel HTML-manipulering](https://github.com/Momant24/Html-manipulering-med-javascript) – Et enkelt prosjekt for å teste manipulering av HTML ved hjelp av JavaScript
-- [Trump Klikker](https://github.com/Momant24/Klikker) – Klikkespill med Pygame, utforske Pygame videre med dumme quotes fra Trump og mer
+
 
 ---
 
