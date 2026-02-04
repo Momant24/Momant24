@@ -48,4 +48,4 @@ Interessert i IT
 
 ---
 
-<p align="center">"To code or not to code, that is the question."</p>
+<p align="center">"To code or not to code, that is the question. - Martin"</p>
